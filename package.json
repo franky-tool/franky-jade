@@ -1,0 +1,19 @@
+{
+  "name": "franky-jade",
+  "version": "1.0.0",
+  "description": "Jade template engine for franky.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franky-tool/franky-jade.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franky-tool/franky-jade/issues"
+  },
+  "homepage": "https://github.com/franky-tool/franky-jade#readme"
+}
